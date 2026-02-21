@@ -74,12 +74,7 @@ Once your environment is active and keys are configured, start the agent by runn
 
 Bash
 python weatheragent/agent.py
-🗺️ Future Roadmap
-[ ] CNC Monitoring: Integrate Fanuc FOCAS for real-time production tracking.
 
-[ ] Web Interface: Add a FastAPI or Streamlit frontend.
-
-[ ] Multi-Agent Systems: Enable multiple agents to collaborate on complex engineering tasks.
 
 👤 Author
 Gaurav Dongare
