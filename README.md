@@ -1,7 +1,8 @@
 🛠️ Setup Instructions
 Clone the Repo
-git clone https://github.com/your-username/repo-name.git
-cd "agentic AI"
+git clone  https://github.com/Gaurav-Dongare/Agentic-AI-Projects-for-learning.git
+
+cd "Agentic AI"
 
 Create Virtual Environment
 python -m venv venv
